@@ -10,4 +10,4 @@ Procedimiento de promediar 3 numeros con Javascript
 4. Entregar promedio
 5. Fin
 
-![]("http://i65.tinypic.com/312yfli.jpg"diagrama"")
+![](http://i65.tinypic.com/312yfli.jpg)
